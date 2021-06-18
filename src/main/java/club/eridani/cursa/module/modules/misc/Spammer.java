@@ -18,7 +18,7 @@ import static club.eridani.cursa.concurrent.TaskManager.runRepeat;
 import static club.eridani.cursa.utils.FileUtil.readTextFileAllLines;
 
 @ParallelLoadable
-@Module(name = "Spammer", category = Category.MISC)
+@Module(name = "Spammerr", category = Category.MISC)
 public class Spammer extends ModuleBase {
 
     Setting<Integer> delay = setting("DelayS", 10, 1, 100);
